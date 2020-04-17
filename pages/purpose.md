@@ -2,9 +2,11 @@
 permalink: /purpose/
 layout: styleguide
 title: Purpose of this Guide
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 ---
+
+<i>This Guide is currently under development and will be live soon! Currently this link holds content for the HCD Discovery Concept Guide.</i>
 
 This Human-Centered Design Discovery Stage Field Guide is a teaching tool and a reference guide. It was originally created for Veterans Experience Office (VEO) by Insight & Design, a team within VEO that has expertise in Human-Centered Design (HCD). This guide was later adapted for use across other agencies through a partnership between GSA’s Office of Customer Experience and The Lab at OPM.
 
