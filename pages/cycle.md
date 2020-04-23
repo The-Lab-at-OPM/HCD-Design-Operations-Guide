@@ -2,7 +2,7 @@
 permalink: /cycle/
 layout: styleguide
 title: Discovery Cycle
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: Brief & Frame
@@ -32,7 +32,7 @@ Human-Centered Design Discovery should be thought of as a <i>cycle</i>, instead 
 
 Below, find an illustration of the Discovery Cycle:
 
-![HCD Discovery Cycle illustration. It shows three big bubbles, labeled Before, During, and After, connected by a line. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan". In the During bubble, there are four squares with differently shaped squiggly lines. All four squares are labeled "Participants". In the After bubble, there are three squares, labeled Insights, Opportunities, and Present. Each square has an icon associated with it. The Insights square has lines converging after passing through a convex lens to represent the convergence of research into Insights. The Opportunities square has lines diverging after passing through a concave lens to represent the divergence of Insights into Opportunity spaces for design. The Present squre has an icon of a piece of paper with writing on it. After the "After" bubble, the line splits, going either towards "Design" or back into the Discovery cycle, passing through a square called "Reframe".]({{ site.baseurl }}/assets/img/discovery-cycle.png)
+![HCD Discovery Cycle illustration. It shows three big bubbles, labeled Before, During, and After, connected by a line. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan". In the During bubble, there are four squares with differently shaped squiggly lines. All four squares are labeled "Participants". In the After bubble, there are three squares, labeled Insights, Opportunities, and Present. Each square has an icon associated with it. The Insights square has lines converging after passing through a convex lens to represent the convergence of research into Insights. The Opportunities square has lines diverging after passing through a concave lens to represent the divergence of Insights into Opportunity spaces for design. The Present squre has an icon of a piece of paper with writing on it. After the "After" bubble, the line splits, going either towards "Design" or back into the Discovery cycle, passing through a square called "Reframe".]({{ site.baseurl }}/img/discovery-cycle.png)
 
 ## Phases of the Discovery Cycle
 

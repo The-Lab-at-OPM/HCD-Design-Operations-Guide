@@ -2,7 +2,7 @@
 permalink: /whatisHCD/
 layout: styleguide
 title: Human-Centered Design
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: HCD Principles

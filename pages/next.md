@@ -2,7 +2,7 @@
 permalink: /next/
 layout: styleguide
 title: Next Steps
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 
@@ -27,6 +27,6 @@ Numerous people, across agencies, contributed to this guide. We are grateful to 
 
 * Veterans Experience Office at VA
 * GSA Office of Customer Experience
-* The Lab at OPM 
+* The Lab at OPM
 
 We would also like acknowledge other leaders in the field of Human-Centered Design which inspired and informed this guide: The VA Innovators Network, 18F, USDS (United States Digital Service), Deloitte & Doblin, Helsinki Design Lab, Luma Institute, Ideo and Ideo.org, Frog Design, IBM Design, and The d.School at Stanford University.

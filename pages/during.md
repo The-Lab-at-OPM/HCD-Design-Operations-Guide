@@ -2,7 +2,7 @@
 permalink: /during/
 layout: styleguide
 title: During Research
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: Preparation Tips

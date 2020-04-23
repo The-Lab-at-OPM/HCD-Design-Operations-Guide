@@ -2,7 +2,7 @@
 permalink: /working/
 layout: styleguide
 title: Working with HCD
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: HCD Process

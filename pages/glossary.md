@@ -2,7 +2,7 @@
 permalink: /glossary/
 layout: styleguide
 title: Glossary of Terms
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 

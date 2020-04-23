@@ -2,7 +2,7 @@
 permalink: /plan/
 layout: styleguide
 title: Plan & Visualize
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 

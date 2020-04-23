@@ -2,7 +2,7 @@
 permalink: /frame/
 layout: styleguide
 title: Brief & Frame
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 

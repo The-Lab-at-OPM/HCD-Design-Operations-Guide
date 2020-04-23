@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: styleguide
-title: HCD Discovery Concept Guide
-category: Discovery Concept Guide
+title: HCD Discovery Operations Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: Purpose

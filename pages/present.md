@@ -2,7 +2,7 @@
 permalink: /present/
 layout: styleguide
 title: Present
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 

@@ -2,7 +2,7 @@
 permalink: /opportunities/
 layout: styleguide
 title: Finding Opportunities
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 ---

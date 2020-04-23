@@ -2,7 +2,7 @@
 permalink: /synthesis/
 layout: styleguide
 title: Synthesis
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: Finding Insights

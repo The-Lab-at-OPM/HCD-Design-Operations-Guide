@@ -2,7 +2,7 @@
 permalink: /recruit/
 layout: styleguide
 title: Recruit
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 
 
