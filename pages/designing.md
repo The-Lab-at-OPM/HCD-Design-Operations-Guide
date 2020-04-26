@@ -9,6 +9,10 @@ subnav:
   href: '/divergent-thinking-1/'
 - text: Convergent Thinking 1
   href: '/convergent-thinking-1/'
+- text: Divergent Thinking 2
+  href: '/divergent-thinking-2/'
+- text: Convergent Thinking 2
+  href: '/convergent-thinking-2/'
 
 
 
@@ -23,7 +27,7 @@ The design phase is made up on successive cycles of convergent and divergent thi
 
 <a href="/HCD-Design-Operations-Guide/img/illo-convergent-divergent-thinking-v2-01.svg" alt=" " target="blank">Click to enlarge the above image</a>
 
-It can be tough for some people to lasso their ideas out of the big blue sky and tug them back to earth, while for other people the challenge is to ever let go of contraints and dream big. These natural tendencies is why having a team of diverse talents is crucial; each of us has our natural gravitational pull, but together we balance each other out. 
+It can be tough for some people to lasso their ideas out of the big blue sky and tug them back to earth, while for other people the challenge is to ever let go of contraints and dream big. These natural tendencies is why having a team of diverse talents is crucial; each of us has our natural gravitational pull, but together we balance each other out.
 
 ## What is divergent thinking?
 
