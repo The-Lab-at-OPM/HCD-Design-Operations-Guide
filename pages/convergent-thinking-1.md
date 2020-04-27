@@ -5,9 +5,8 @@ title: Convergent Thinking 1
 category: Discovery Operations Guide
 lead: Project Mapping, Skills Assessment, and Budget Making
 
-
 ---
-Convergent Thinking
+## Convergent Thinking
 
 The frameworks in this section will help you see the ideas you generated in the last section through the lens of your resources and project constaints. This can be a little bit of a tense session, as people might feel that their ideas are being run over or thrown out of the window.
 

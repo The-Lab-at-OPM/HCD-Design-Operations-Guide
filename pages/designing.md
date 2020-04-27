@@ -13,6 +13,10 @@ subnav:
   href: '/divergent-thinking-2/'
 - text: Convergent Thinking 2
   href: '/convergent-thinking-2/'
+- text: Divergent Thinking 3
+  href: '/divergent-thinking-3/'
+- text: Convergent Thinking 3
+  href: '/convergent-thinking-3/'
 
 
 
