@@ -2,7 +2,7 @@
 permalink: /divergent-thinking-3/
 layout: styleguide
 title: Divergent Thinking 3
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Generating Design Prototypes
 
 

@@ -2,7 +2,7 @@
 permalink: /convergent-thinking-1/
 layout: styleguide
 title: Convergent Thinking 1
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Project Mapping, Skills Assessment, and Budget Making
 
 ---

@@ -2,7 +2,7 @@
 permalink: /divergent-thinking-2/
 layout: styleguide
 title: Divergent Thinking 2
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Gathering References, Communicating, and Making
 subnav:
 - text: Gathering References

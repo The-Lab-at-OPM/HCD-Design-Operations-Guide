@@ -2,7 +2,7 @@
 permalink: /expectations/
 layout: styleguide
 title: Set Expectations
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

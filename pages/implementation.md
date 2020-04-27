@@ -2,7 +2,7 @@
 permalink: /implementation/
 layout: styleguide
 title: Proposing Implementation
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

@@ -2,7 +2,7 @@
 permalink: /gathering-references/
 layout: styleguide
 title: Gathering References
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Using what exists to show your design concept
 
 

@@ -2,7 +2,7 @@
 permalink: /insights/
 layout: styleguide
 title: Finding Insights
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 ---

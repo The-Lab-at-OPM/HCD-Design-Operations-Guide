@@ -2,7 +2,7 @@
 permalink: /purpose/
 layout: styleguide
 title: Purpose of this Guide
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 ---

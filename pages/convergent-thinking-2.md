@@ -2,7 +2,7 @@
 permalink: /convergent-thinking-2/
 layout: styleguide
 title: Analyzing Designs
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

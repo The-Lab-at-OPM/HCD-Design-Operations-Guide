@@ -2,7 +2,7 @@
 permalink: /convergent-thinking-3/
 layout: styleguide
 title: Convergent Thinking 3
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Testing Prototypes and Evaluating Results
 subnav:
 - text: Testing Prototypes

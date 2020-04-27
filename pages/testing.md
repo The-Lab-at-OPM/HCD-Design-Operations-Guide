@@ -2,7 +2,7 @@
 permalink: /testing/
 layout: styleguide
 title: Testing Prototypes
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

@@ -2,7 +2,7 @@
 permalink: /evaluating/
 layout: styleguide
 title: Evaluating Test Results
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 
@@ -38,4 +38,4 @@ An example of this is when a software has both public-facing participants as wel
 
 ### The Next Divergence: iteration
 
-The following phase is iteration on your test results. To review the concepts behind this, see the <a href= "https://the-lab-at-opm.github.io/website/hcd-guide/design/iteration.htm">Iteration</a> section of the HCD Design Concept Guide. This is divergent thinking within a more and more well-defined area; you iterate, which is divergent thinking, but in response to participant feedback, which is a bounded area of creativity. 
+The following phase is iteration on your test results. To review the concepts behind this, see the <a href= "https://the-lab-at-opm.github.io/website/hcd-guide/design/iteration.htm">Iteration</a> section of the HCD Design Concept Guide. This is divergent thinking within a more and more well-defined area; you iterate, which is divergent thinking, but in response to participant feedback, which is a bounded area of creativity.

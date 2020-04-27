@@ -2,7 +2,7 @@
 permalink: /designing/
 layout: styleguide
 title: Designing
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 subnav:
 - text: Divergent Thinking 1

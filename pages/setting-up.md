@@ -2,7 +2,7 @@
 permalink: /setting-up/
 layout: styleguide
 title: Setting Up
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 subnav:
 - text: Set Expectations

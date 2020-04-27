@@ -2,7 +2,7 @@
 permalink: /communicating-concepts/
 layout: styleguide
 title: Communicating Concepts
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

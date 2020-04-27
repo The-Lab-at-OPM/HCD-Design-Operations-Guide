@@ -2,7 +2,7 @@
 permalink: /making/
 layout: styleguide
 title: Making
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead: Three Ways to Start Making
 
 

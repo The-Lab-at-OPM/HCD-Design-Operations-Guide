@@ -2,7 +2,7 @@
 permalink: /next/
 layout: styleguide
 title: Next Steps
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 

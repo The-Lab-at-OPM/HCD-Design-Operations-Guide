@@ -2,7 +2,7 @@
 permalink: /principles/
 layout: styleguide
 title: Create Principles
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 subnav:
 - text: Why Create Principles?

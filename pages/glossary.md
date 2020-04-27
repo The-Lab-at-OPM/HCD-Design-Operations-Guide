@@ -2,7 +2,7 @@
 permalink: /glossary/
 layout: styleguide
 title: Glossary of Terms
-category: Discovery Operations Guide
+category: Design Operations Guide
 lead:
 
 
